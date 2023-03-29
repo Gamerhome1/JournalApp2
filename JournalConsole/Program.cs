@@ -10,7 +10,7 @@ namespace JournalConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world");
+            const void
         }
     }
 }
