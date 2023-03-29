@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JournalApp2", "JournalApp2.\JournalApp2.csproj", "{DA349F72-94CB-49C7-BD4E-CB235BB1B6B8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{D8856FFF-119D-4A0C-89B8-29D00F3B5CC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JournalConsole", "JournalConsole\JournalConsole.csproj", "{CE7C5D2E-C8AF-44D8-BD7C-2694ABF3B838}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA349F72-94CB-49C7-BD4E-CB235BB1B6B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA349F72-94CB-49C7-BD4E-CB235BB1B6B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA349F72-94CB-49C7-BD4E-CB235BB1B6B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA349F72-94CB-49C7-BD4E-CB235BB1B6B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE7C5D2E-C8AF-44D8-BD7C-2694ABF3B838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE7C5D2E-C8AF-44D8-BD7C-2694ABF3B838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE7C5D2E-C8AF-44D8-BD7C-2694ABF3B838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE7C5D2E-C8AF-44D8-BD7C-2694ABF3B838}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CE7C5D2E-C8AF-44D8-BD7C-2694ABF3B838} = {D8856FFF-119D-4A0C-89B8-29D00F3B5CC6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8723EA7D-0D9F-4F42-96A0-6ECCE50C6473}
+	EndGlobalSection
+EndGlobal
